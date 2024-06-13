@@ -4,7 +4,7 @@ AI-Ready Automate Atoms to Boost Web Browsing Experience
 
 <samp>
 
-[**简体中文**](./README_CN.md) · [**English**](./README.md)
+[**简体中文**](./README_CN.md) · [**English**](./README.md) · [**日本語**](./README_JP.md)
 
 </samp>
 
